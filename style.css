@@ -41,3 +41,11 @@ nav li{
 	justify-content: center;
 	align-items: center;
 }
+.form-container{
+	width: 60%;
+	height: 1000px;
+
+	/*border:1px solid black;*/
+
+	margin:150px auto;
+}
